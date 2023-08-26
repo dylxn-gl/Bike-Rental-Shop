@@ -4,7 +4,6 @@
 DB_HOST="localhost"
 DB_NAME="bikerentalshop"
 DB_USER="postgres"
-DB_PASSWORD="alexander1212"
 
 #Funcion para consultas
 consultTable() {
