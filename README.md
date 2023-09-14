@@ -26,6 +26,8 @@ Para hacer uso del programa lo *ejecutamos*
 ./script.sh
 ```
 
+## Recuerda crear la base de datos!
+
 Luego de ejecutar el codigo respondemos las preguntas y listo, ya esta. 
 
 ### Suerte
